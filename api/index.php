@@ -1,3 +1,3 @@
 <?php 
-require "./function.php";
+require "function.php";
 ?>
